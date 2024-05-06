@@ -2,4 +2,4 @@ langchain_core
 python-dotenv
 streamlit==1.30.0
 groq
-langchain-groq 
+langchain_groq 
